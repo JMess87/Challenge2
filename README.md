@@ -1,6 +1,6 @@
 # Challenge2- 
 
-Instructor Gabe Perry - has given and extension for homework weeks 1-6 for this bootcamp term. Will submit this assignment final version by 11/19/22.
+Instructor Gabe Perry - has given and extension for homework to the entire class for weeks 1-6 for this bootcamp term.
 
 GW Bootcamp Challenge 2 - Advanced CSS: Portfolio
 
