@@ -1,0 +1,122 @@
+/* HEADER Styling */
+body {
+  margin: 20px;
+  border: 20px;
+  padding: 20px;
+  background-color:darkblue;
+}
+
+
+.header {
+  background-color: black;
+  color: aliceblue;
+  padding: 20px;
+  text-align: left;
+  font-size: 25px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+.header > h1 {
+  background-color: blue;
+  width:40% ;
+}
+
+/* Nav Styling */
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  height: 60px;
+  overflow: hidden;
+  background-image: url(../assets-css/binary-code.jpg)
+}
+
+li {
+  float: right;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #111;
+}
+
+/* CSS Pseudo for Nav Links */
+.navstyle a:hover {
+  background-color: #ddd;
+  color: black; }
+
+/* About Me */
+
+
+.aboutme {
+  display: flex;
+  align-items: stretch;
+  background-color: #f1f1f1;
+}
+
+.aboutme > div { 
+  background-color: DodgerBlue;
+  color: white;
+  margin: 10px;
+  text-align: left;
+  line-height: 75px;
+  font-size: 30px;
+
+}
+
+/* myWork */
+
+.mywork {
+  display: flex;
+  align-items: stretch;
+  background-color: #f1f1f1;
+}
+
+.mywork > div { 
+  background-color: DodgerBlue;
+  color: white;
+  margin: 10px;
+  text-align:left;
+  line-height: 75px;
+  font-size: 30px;
+
+}
+
+  
+
+
+
+
+p { 
+  margin: 20px;
+  font-size: large;
+  color: aliceblue;
+  text-align: center;
+}
+
+
+/* Topic Styling */
+
+
+
+/* Footer Styling */
+
+.footer {
+  background-image: url(../assets-css/binary-code.jpg)
+  color: aliceblue;
+  padding: 20px;
+  text-align: left;
+  font-size: 25px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
